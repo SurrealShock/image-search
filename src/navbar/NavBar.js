@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 import AppBar from 'material-ui/AppBar';
 
-const NavBar = () => <AppBar title="Search For An Image"/>
+const NavBar = () => <AppBar title="Search For An Image" />;
 
 export default NavBar;
